@@ -1,0 +1,15 @@
+install python
+
+cmd > "pip install requests"
+
+cmd > "pip install bs4"
+
+cmd > "pip install openpyxl"
+
+cmd > "pip install pymongo --user"
+
+cmd > "pip install json"
+
+cmd > "python main.py"
+
+results in database

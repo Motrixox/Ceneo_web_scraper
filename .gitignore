@@ -1,0 +1,14 @@
+
+downloaded.html
+__pycache__/ExcelWriter.cpython-38.pyc
+__pycache__/Item.cpython-38.pyc
+*.xlsx
+__pycache__/Category.cpython-38.pyc
+__pycache__/pymongo_get_database.cpython-38.pyc
+.idea
+Product_list_script/__pycache__/Category.cpython-38.pyc
+Product_list_script/__pycache__/ExcelWriter.cpython-38.pyc
+Product_list_script/__pycache__/pymongo_get_database.cpython-38.pyc
+Price_update_script/__pycache__/ExcelWriter.cpython-38.pyc
+Price_update_script/__pycache__/Product.cpython-38.pyc
+Price_update_script/__pycache__/pymongo_get_database.cpython-38.pyc
